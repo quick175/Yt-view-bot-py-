@@ -1,3 +1,4 @@
+#A verison will be later issued which will make it be able to ask you for a yt url but for now you have to change it manually in the code itself
 import os, webbrowser, time
 from test import *
 
