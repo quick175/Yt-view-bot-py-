@@ -1,4 +1,5 @@
 #A verison will be later issued which will make it be able to ask you for a yt url but for now you have to change it manually in the code itself
+# NOTE- In line 6 opera is chosen as the browser killed,you can adjust it manually by changing "opera.exe" to i.e "chrome.exe" or whatever.
 import os, webbrowser, time
 from test import *
 
