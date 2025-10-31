@@ -1,3 +1,5 @@
+#ADD YOUR OWN URL IN THE LIST 'urls',the URL written is just to show the format.
+
 #A verison will be later issued which will make it be able to ask you for a yt url but for now you have to change it manually in the code itself
 # NOTE- In line 6 chrome is chosen as the browser killed,you can adjust it manually by changing "chrome.exe" to i.e "firefox.exe" or whatever.
 import os, webbrowser, time
@@ -20,7 +22,7 @@ files = {
 	"file2" : ""
 }
 
-urls=["https://youtube.com/shorts/KD1xMzlMqko?feature=share","https://youtube.com/shorts/pL82bDBE2gY"]
+urls=["add Ur url on here via this format Https:abcd1234,Https:dcba4321"]
 def urlSetter(listofURLs):
 	i=0
 	while i < len(listofURLs):
